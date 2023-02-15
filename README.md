@@ -7,6 +7,6 @@ my first repository
 ---
 
 ### About me
-[title] (https://www.linkedin.com/in/cleberson-dos-santos-soares-7791a5b6}
+[title] (https://www.linkedin.com/in/cleberson-dos-santos-soares-7791a5b6)
 
 Estudando ...
